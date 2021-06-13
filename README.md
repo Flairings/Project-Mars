@@ -7,3 +7,5 @@ project just sitting in my folders pissing me off so here ya go g.
 
 
 p.s. pretty sure the token nuking commands are fucked, if they break ur account it aint my problem boss.
+
+also... dont come at me telling me half the code is bullshit to make it look pretty and its coded shit. i know LOL
